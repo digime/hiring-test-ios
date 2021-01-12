@@ -28,12 +28,12 @@ The App must:
 - **UI / App**: The app needs to work in portrait mode, using iOS 13+. The rest is up to you
 - **Tests**: Write no more than `3` tests to cover what you feel are the most important aspects of the app
 - **Documentation**: Include a `README` that includes:
- - Roughly how long you took
- - Any special instructions on how to build and run the app
- - A list of "Things I would include / do differently if I had more time"
- - Rationale for using any 3rd party libraries (if any)
- - Detail any bugs, issues you didn't get a chance to fix
- - Any other comments / notes we should consider as part of your application
+	- Roughly how long you took
+	- Any special instructions on how to build and run the app
+	- A list of "Things I would include / do differently if I had more time"
+	- Rationale for using any 3rd party libraries (if any)
+	- Detail any bugs, issues you didn't get a chance to fix
+	- Any other comments / notes we should consider as part of your application
 
 
 ## Completion
