@@ -35,6 +35,8 @@ The App must:
 	- Detail any bugs, issues you didn't get a chance to fix
 	- Any other comments / notes we should consider as part of your application
 
+### Language
+As much as we love Objective-C, please submit your project in Swift :).
 
 ## Completion
 Share your private Github repo with the user `@digimetest`.
