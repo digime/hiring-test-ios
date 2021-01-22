@@ -1,4 +1,4 @@
-Digi.me iOS Tech Test
+digi.me iOS Tech Test
 
 ## Hello fellow iOS Developer 👋
 We're really happy you are insterested in joining our iOS team at digi.me.
@@ -43,6 +43,6 @@ Share your private Github repo with the user `@digimetest`.
 
 Please also include your name in the repository description so that we know whose code we're looking at.
 
-After we have considered your submission you may be asked to discuss your solution over a zoom call.
+After we have considered your submission you may be asked to discuss your solution over a Zoom call.
 
 Best of luck and we look forward to speaking with you soon!
